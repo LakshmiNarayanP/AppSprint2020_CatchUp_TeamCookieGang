@@ -27,9 +27,7 @@ A minimal, simplistic themed app that is pleasing to the eye. A simple and inter
 Language/framework used: Flutter
 
 **Compulsary Requirements:**
-- An Youtube video link explaining all the features of the developed application : < https://youtu.be/zOk6es8MQvk  >
-- The apk of the application is in the root directory of this repository.
-- Source code for your entire application should be in the "/App Development" directory
+- A Youtube video link explaining all the features of the developed application : < https://youtu.be/zOk6es8MQvk  >
 
 ---
 Developed for AppSprint'20.
