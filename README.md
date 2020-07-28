@@ -19,7 +19,6 @@ Software used: Figma
 
 #### Links for the submission: 
 - Pushed the design source file into the "/UI-Design" directory.
--  
 
 ### Write-up on the approach taken for UI design* (required)
 ---
